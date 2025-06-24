@@ -6,20 +6,18 @@
 }
 
 body {
-    height: 100vh;
     width: 100%;
-    margin: 0;
+    height: 100vf;
 }
 
-/*Header*/
-header{
-    border: solid 2px red;
+header {
+    border:2px solid red;
 }
 
-/*Estilos Barra de navegacion*/
+.left {
+    border: 2px solid green;
+}
 
-nav {
-    display: flex;
-    flex-direction: row;
-    border: solid 1px black;
+.right {
+    border: 2px solid blue;
 }
