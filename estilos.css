@@ -1,0 +1,25 @@
+* {
+   /* background-color: hsl(200deg 4.92% 11.96%); */
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+}
+
+/*Header*/
+header{
+    border: solid 2px red;
+}
+
+/*Estilos Barra de navegacion*/
+
+nav {
+    display: flex;
+    flex-direction: row;
+    border: solid 1px black;
+}
